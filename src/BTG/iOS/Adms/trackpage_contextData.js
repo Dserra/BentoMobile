@@ -20,8 +20,8 @@
         "channel"  : "remote sandbox channel track page",
         "trackingData" : {"xrs" : "12345"},
         "contextData"   : {
-            "contextDataKey1trackpage"    : "testcontextvalue1trackpage",
-            "contextDataKey2trackpage"    : "testcontextvalue2trackpage",
+            "contextDataKey1trackpage"    : "Dserrtrackpage",
+            "contextDataKey2trackpage"    : "Dserratrackpage",
             "m.testcontext1" 	 : "testcontext1",
             "nick.game"		 : "nickgamecontext"
         }
