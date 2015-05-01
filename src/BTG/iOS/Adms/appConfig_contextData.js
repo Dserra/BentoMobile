@@ -4,7 +4,7 @@
 		"admsReportSuiteIDs"   : "viarnd",
 		"admsCharacterSet" : "ISO-8859-1",
 		"admsCurrencyCode" : "USD",
-		"admsSslEnabled" : true,
+		"admsSslEnabled" : false,
 		"admsLifecycleSessionTimeout" : 300,
 		"admsTrackingServer" : "sc.mtv.com",
 		"admsVisitorID" : "testVID",
