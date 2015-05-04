@@ -6,8 +6,8 @@
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 728,
-			"height" : 90,
+			"width" : 300,
+			"height" : 50,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "dap_celtra_mraid_728x90_expand"
+				"testmode" : "celtra_mobile_300x50"
 			},
 			"dfpData" : {
 				"metadata" : {
